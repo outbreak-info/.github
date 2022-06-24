@@ -15,7 +15,7 @@ data and research.
 
 ### Data processing
 #### Genomics data pipelines
-* [Bjorn](https://github.com/andersen-lab/bjorn): pipeline for SARS-CoV-2 mutation counting, lineage classifcation, and other processing.
+* [Bjorn](https://github.com/andersen-lab/bjorn): pipeline for SARS-CoV-2 mutation counting, lineage classification, and other processing.
 
 #### Research Library metadata harvesters & harmonizers
 * [bioRxiv and medRxiv](https://github.com/outbreak-info/biorxiv): Harvester of bioRxiv and medRxiv pre-print publications
