@@ -10,6 +10,7 @@ data and research.
 
 ### Data access
 * [outbreak.info R package](https://github.com/outbreak-info/R-outbreak-info): R package to access all the genomics and epidemiology data and Research Library metadata compiled and standardized on outbreak.info.
+* [outbreak.info Python package](https://github.com/outbreak-info/python-outbreak-info): Python package to access all the genomics and epidemiology data and Research Library metadata compiled and standardized on outbreak.info.
 * [api.outbreak.info](https://github.com/outbreak-info/outbreak.api): Application programming interface (API) to access Research Library metadata and cases & deaths data, available at [api.outbreak.info](https://api.outbreak.info/)
 * [outbreak.network API](https://github.com/outbreak-info/outbreak-api-lite): a lighter weight version of the API code to create local builds with outbreak.network
 
